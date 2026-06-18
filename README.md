@@ -34,7 +34,7 @@ We are a 501(c)(3) nonprofit organization dedicated to supporting the football p
 - **Join as a member** — [Coming soon]
 - **Donate** — [Coming soon]
 - **Volunteer** — [Coming soon]
-- **Contact us** — eric.r.moberg@gmail.com
+- **Contact us** — info@jhsfbb.org (coming soon)
 
 ---
 
