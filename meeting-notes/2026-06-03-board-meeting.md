@@ -73,7 +73,7 @@ The following items require a formal vote and are scheduled for the next board m
 
 | Item | Owner | Status |
 |------|-------|--------|
-| Schedule first formal board meeting | Jim Taylor (President-elect) | Pending |
+| Schedule first formal board meeting | TBD | Pending |
 | File Articles of Incorporation | Eric Moberg | ✅ Completed June 17, 2026 |
 | Obtain EIN | Eric Moberg | ✅ Completed June 17, 2026 |
 | Apply for 501(c)(3) | Eric Moberg | ✅ Filed June 17, 2026 — pending approval |

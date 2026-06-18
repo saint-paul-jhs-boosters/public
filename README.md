@@ -19,7 +19,7 @@ We are a 501(c)(3) nonprofit organization dedicated to supporting the football p
 
 | Role | Name |
 |------|------|
-| President | Jim Taylor |
+| President | Jim Taylor (pending formal vote) |
 | Secretary | Eric Moberg |
 | Treasurer | TBD |
 | Fundraising Coordinator | Mary Moore |
