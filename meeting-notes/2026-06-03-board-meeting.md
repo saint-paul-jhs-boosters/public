@@ -9,8 +9,10 @@
 
 ## Attendance
 
-| Name | Role | Status |
-|------|------|--------|
+*All roles are recommended (pending formal vote) at first board meeting.*
+
+| Name | Recommended Role (pending formal vote) | Status |
+|------|---------------|--------|
 | Eric Moberg | Secretary | Present |
 | Colin Moore | Member at Large | Present |
 | James Kasal | Member at Large | Present |

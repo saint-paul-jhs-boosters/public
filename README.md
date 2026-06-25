@@ -17,9 +17,11 @@ We are a 501(c)(3) nonprofit organization dedicated to supporting the football p
 
 ## Board of Directors
 
-| Role | Name |
+*All roles are recommended (pending formal vote) at first board meeting.*
+
+| Recommended Role (pending formal vote) | Name |
 |------|------|
-| President | Jim Taylor (pending formal vote) |
+| President | Jim Taylor |
 | Secretary | Eric Moberg |
 | Treasurer | TBD |
 | Fundraising Coordinator | Mary Moore |
