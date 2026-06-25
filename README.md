@@ -23,7 +23,7 @@ We are a 501(c)(3) nonprofit organization dedicated to supporting the football p
 |------|------|
 | President | Jim Taylor |
 | Secretary | Eric Moberg |
-| Treasurer | Tammy Kasal |
+| Treasurer | Tamara Kasal |
 | Fundraising Coordinator | Mary Moore |
 | Member at Large | James Kasal |
 | Member at Large | Colin Moore |
