@@ -75,16 +75,16 @@ The following items require a formal vote and are scheduled for the next board m
 
 | Item | Owner | Status |
 |------|-------|--------|
-| Schedule first formal board meeting | TBD | Pending |
+| Schedule first formal board meeting | Eric Moberg | ✅ Scheduled — June 29, 2026 |
 | File Articles of Incorporation | Eric Moberg | ✅ Completed June 17, 2026 |
 | Obtain EIN | Eric Moberg | ✅ Completed June 17, 2026 |
-| Apply for 501(c)(3) | Eric Moberg | ✅ Filed June 17, 2026 — pending approval |
+| Apply for 501(c)(3) | Eric Moberg | ✅ Filed June 17, 2026 — pending IRS approval |
 | Set up meeting transcription service | Eric Moberg | In progress |
-| Select bank/credit union | Board | Pending |
-| Recruit Treasurer | Board | Pending |
+| Select bank/credit union | Board | ✅ Blaze Credit Union — resolution vote June 29 |
+| Recruit Treasurer | Board | ✅ Tamara Kasal confirmed |
 
 ---
 
 ## Next Meeting
 
-Date TBD. All board members will be notified via email.
+First formal board meeting — June 29, 2026 at 5:30 PM.
